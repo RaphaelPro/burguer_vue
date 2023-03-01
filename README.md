@@ -1,9 +1,9 @@
 # burguer
 
 ## Introdução
-```
+
 Aplicação feita com o intuito único de aprendizagem, utilizando de fake api no Backend, nessa aplicação coloco em pratica modularização, routes, reutilização de componentes, consumo de api, adição, exclusão e alteração de informações no backend
-```
+
 
 ## Project setup
 ```
